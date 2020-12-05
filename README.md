@@ -1,6 +1,6 @@
 # Project-1
 
-This project created to learn terraform. Project Steps as below. 
+This project created to learn terraform. In this project, We'll provision an EC2 instance on AWS Free Tier and execute remote commands to install Jenkins. Project Steps as below. 
 
 ## Creating Free AWS Account
 
