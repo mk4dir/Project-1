@@ -26,3 +26,4 @@ Afer that run command
 terraform apply 
 ```
 
+Reference: https://levelup.gitconnected.com/intro-to-terraform-provision-ec2-instance-and-install-jenkins-3ccb7e2d60f6 
